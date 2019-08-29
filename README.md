@@ -13,7 +13,7 @@ I personally prefer Sean's approach in this regard.
 
 ---
 
-When an app goes into background, you can see a snapshot of it in the recently-apps list, upon pressing the home button twice on an iOS device.
+When an app goes into background, you can see a snapshot of it in the recent-apps list, upon pressing the home button twice on an iOS device.
 
 This example shows you how you could protect your user's data from being viewed when the app is in the background.
 
